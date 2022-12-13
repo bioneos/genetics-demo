@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bioneos/genetics-demo-javascript#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "seqalign": "^1.0.1",
     "serve-favicon": "^2.5.0"
   },
